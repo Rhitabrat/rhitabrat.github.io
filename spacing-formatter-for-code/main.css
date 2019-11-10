@@ -1,0 +1,67 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.clearfix:before,
+.clearfix:after {
+  content: " "; /* 1 */
+  display: table; /* 2 */
+}
+
+.clearfix:after {
+  clear: both;
+}
+
+h2 {
+  margin: 20px 0;
+}
+
+body {
+  background: #eee;
+  font-family: "Droid";
+}
+.clearfix {
+  width: 96%;
+  margin: 0 auto;
+  background: white;
+}
+.sidebar-left {
+  float: left;
+  width: 55%;
+  padding: 10px 20px;
+  border-right: 1px solid #eee;
+  position: relative;
+}
+
+.sidebar-left form {
+  overflow-x: auto;
+}
+
+textarea {
+  min-width: calc(100% - 2px);
+}
+
+.output-area {
+  min-height: 91vh;
+}
+
+.sidebar-right {
+  float: right;
+  width: calc(41% - 20px);
+  padding-top: 20px;
+  padding-right: 20px;
+}
+
+#copy-code {
+  right: 20px;
+  position: absolute;
+  background: linear-gradient(to right, #da22ff 0%, #9733ee 51%, #da22ff 100%);
+  padding: 7px 22px;
+  border-radius: 3px;
+  color: white;
+}
+
+#copy-code:hover {
+  background: #da22ff;
+  cursor: pointer;
+}

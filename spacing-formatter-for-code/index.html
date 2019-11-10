@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="main.css" />
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="tidy.js"></script>
+    <script>
+      options = {
+        indent: "auto",
+        "indent-spaces": 2,
+        wrap: 80,
+        markup: true,
+        "output-xml": false,
+        "numeric-entities": true,
+        "quote-marks": true,
+        "quote-nbsp": false,
+        "show-body-only": true,
+        "quote-ampersand": false,
+        "break-before-br": true,
+        "uppercase-tags": false,
+        "uppercase-attributes": false,
+        "drop-font-tags": true,
+        "tidy-mark": false
+      };
+    </script>
+    <script src="main.js"></script>
+
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div class="clearfix">
+      <div class="sidebar-left">
+        <div id="copy-code">Copy</div>
+        <h2>Python</h2>
+        <form id="python-code" action="#">
+          <textarea class="python-code" rows="10" cols="96"></textarea>
+          <!-- <input type="submit" name="submit" value="Save" /> -->
+        </form>
+        <h2>Java</h2>
+        <form id="java-code" action="#">
+          <textarea class="java-code" rows="10" cols="96"></textarea>
+          <!-- <input type="submit" name="submit" value="Save" /> -->
+        </form>
+        <h2>C++</h2>
+        <form id="cpp-code" action="#">
+          <textarea class="cpp-code" rows="10" cols="96"></textarea>
+          <!-- <input type="submit" name="submit" value="Save" /> -->
+        </form>
+        <h2>C</h2>
+        <form id="c-code" action="#">
+          <textarea class="c-code" rows="10" cols="96"></textarea>
+          <!-- <input type="submit" name="submit" value="Save" /> -->
+        </form>
+      </div>
+      <div class="sidebar-right">
+        <div class="output"></div>
+      </div>
+    </div>
+  </body>
+</html>
