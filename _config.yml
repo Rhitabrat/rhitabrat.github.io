@@ -28,7 +28,7 @@ twitter_username: Rhitabrat
 github_username: Rhitabrat
 
 # Build settings
-theme: minima
+theme: sustain4-theme
 plugins:
   - jekyll-feed
 
