@@ -29,3 +29,8 @@ google_analytics: UA-69391421-1
 
 # needed for travis-ci build
 exclude: [vendor]
+
+# Defining plugins here is necessary because certain hosts (e.g. Github Pages, Netlify) do not build sites using Bundler.
+plugins:
+  - jekyll-paginate
+  - jekyll-menus
