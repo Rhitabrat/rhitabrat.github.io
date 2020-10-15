@@ -12,18 +12,20 @@ safe: true
 # edit here to achieve your personal greatness
 # url: http://username.github.io/
 # baseurl: /sustain4-theme
-title: Chris Turner
-author: Chris Turner
+title: Rhitabrat Pokharel
+author: Rhitabrat Pokharel
 description: Personal blog and resume
 avatar: profile.png
-email: yourname@email.com
-github: jekyller/sustain # username
-twitter: username
-linkedin: username
-stackoverflow: username   #e.g: users/2735833/proton1h1
+email: pokharelrhitabrat@gmail.com
+github: Rhitabrat # username
+twitter: Rhitabrat
+linkedin: in/rhitabrat
+stackoverflow: users/8736603/rhitik-pokharel   #e.g: users/2735833/proton1h1
+googlescholar : citations?user=YbmOhHUAAAAJ&hl=en
+facebook: Rhitabrat
 #Comment out if you don't want disqus
-disqus: username
-google_analytics: UA-69391421-1
+# disqus: username
+# google_analytics: UA-69391421-1
 
 
 # needed for travis-ci build
