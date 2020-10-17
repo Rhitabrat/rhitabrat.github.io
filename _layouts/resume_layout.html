@@ -30,7 +30,7 @@
 
 <body>
     <div class="container">
-        <header class="four columns">
+        <header class="five columns">
             <img src="{{ site.baseurl }}static/img/profile.png" class="me">
             <h1>{{ site.name }}</h1>
             <p>
@@ -38,8 +38,6 @@
             </p>
             <address>
                 <a href="{{ site.google_maps }}">
-                    {{ site.address.street }}<br />
-                    {{ site.address.postcode }}<br />
                     {{ site.address.city }}<br />
                     {{ site.address.country }}
                 </a>
@@ -51,7 +49,7 @@
             <p><a href="{{ site.email_full }}">{{ site.email }}</a><br /></p>
             {% include social.html %}
         </header>
-        <div class="twelve columns clearfix">
+        <div class="eleven columns clearfix">
 
             {{ content }}
 
