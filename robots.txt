@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://rhitabrat.github.io/sitemap.xml
