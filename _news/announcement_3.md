@@ -1,8 +1,11 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2023-Oct
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+✍🏼 <b>Generating Continuations in Multilingual Idiomatic Contexts</b> accepted at MRL 2023 colocated with EMNLP.
+
+
+
