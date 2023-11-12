@@ -7,7 +7,8 @@ inline: true
 related_posts: false
 ---
 
-🏆 Received <b>SoBigData Award for Diversity and Inclusion</b> from SoBigData++ Research Infrastructure.
+✍🏼 A paper titled <b>All Translation Tools Are Not Equal: Investigating the Quality of Language Translation for Forced Migration</b> accepted at DSAA 2023, IEEE.
+
 
 <!-- Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
 

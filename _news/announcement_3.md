@@ -5,7 +5,8 @@ inline: true
 related_posts: false
 ---
 
-✍🏼 <b>Generating Continuations in Multilingual Idiomatic Contexts</b> accepted at MRL 2023 colocated with EMNLP.
+🏆 Received <b>SoBigData Award for Diversity and Inclusion</b> from SoBigData++ Research Infrastructure.
+
 
 
 

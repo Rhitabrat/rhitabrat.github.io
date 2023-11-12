@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-Jul
+date: 2023-Jun
 inline: true
 related_posts: false
 ---
 
-✍🏼 A paper titled <b>All Translation Tools Are Not Equal: Investigating the Quality of Language Translation for Forced Migration</b> accepted at DSAA 2023, IEEE.
+✅ Successfully completed my RPE (Research Profeciency Exam).
