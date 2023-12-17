@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-✅ Successfully completed my RPE (Research Profeciency Exam).
+✅ Successfully completed my RPE (Research Proficiency Exam).
