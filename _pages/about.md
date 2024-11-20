@@ -21,6 +21,6 @@ services: true
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD Student in Computer Science (Natural Language Processing) at Portland State University, under the guidance of <a href="http://web.cecs.pdx.edu/~ameeta/">Dr. Ameeta Agrawal</a> (<a href="https://nlp.cs.pdx.edu/">PortNLP Lab</a>). Currently, I am working on large language models (LLMs) and low resource languages.
+I am a PhD Student in Computer Science (Natural Language Processing) at Portland State University, under the guidance of <a href="http://web.cecs.pdx.edu/~ameeta/">Dr. Ameeta Agrawal</a> (<a href="https://nlp.cs.pdx.edu/">PortNLP Lab</a>). Currently, I am working on improving LLM's multilingual ability. I have also worked on projected related to low-resource languages, machine translation (MT), MT post-editing (MTPE), idiomaticity, multi-word expressions, and social media information extraction. 
 
-I am open to collaboration on topics related to multilingual models, low-resource languages, machine translation (MT), MT post-editing (MTPE), idiomaticity, multi-word expressions, social media information extraction or anything pertaining to NLP and ML. I am on the lookout for <span style="color: #f92080;">Internship</span> or  <span style="color: #f92080;">Full-Time positions</span>.
+I am on the lookout for <span style="color: #f92080;">Internship</span> or  <span style="color: #f92080;">Full-Time positions</span>.

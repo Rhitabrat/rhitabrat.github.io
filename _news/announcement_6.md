@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-✍🏼 One paper accepted at MRL 2024 colocated with EMNLP.
+✍🏼 One paper accepted at MRL 2024 co-located with EMNLP.
