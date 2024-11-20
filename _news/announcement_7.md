@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-✅ Successfully defended my PhD proposal titled <b>Enhanced Multilingual Text Generation with Large Language Models</b>.
+🌱 Co-mentored Paola during her NSF REU internship at PSU.
